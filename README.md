@@ -1,4 +1,4 @@
-twepes
+![Alt tag](imgs/twepes_transbg_bluefont.png)
 ===
 Multithreaded Java framework built on top of Twitch IRC to capture and publish various IRC events.
 
